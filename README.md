@@ -1,2 +1,2 @@
-# Tugas 'Pong' MBKM ITB x Agate Academy
+# Tugas MBKM ITB x Agate Academy
 13518107 - Chokyi Ozer
